@@ -2,10 +2,9 @@ import os
 import threading
 import requests, random
 from dhooks import Webhook
-import keep_alive
 import time
 
-keep_alive.keep_alive()
+
 
 time.sleep(5)
 
