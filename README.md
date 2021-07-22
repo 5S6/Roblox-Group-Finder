@@ -8,7 +8,7 @@ A tool to help you find unowned/ownerless roblox groups :)
 - It will not send locked groups so don't worry LOLLL.
 
 
-I personally use like 5 million threads, but ngl 50,000 - 100,000 threads is fine :D
+- I personally use like 5 million threads, but ngl 500 - 100,000 threads is fine :D
 
 
 
