@@ -1,8 +1,11 @@
 # Roblox-Group-Finder
-A tool to help you find unowned roblox groups :)
+A tool to help you find unowned/ownerless roblox groups :)
 
 
 It's really easy, all you need is a discord webhook :)
+
+
+It will not send locked groups so don't worry LOLLL
 
 
 I personally use like 5 million threads, but ngl 50,000 - 100,000 threads is fine :D
