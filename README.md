@@ -11,6 +11,9 @@ A tool to help you find unowned/ownerless roblox groups :)
 - I personally use like 5 million threads, but ngl 500 - 100,000 threads is fine :D
 
 
+- On Line 8 Of Main.py Change That To The Range You Want To Scan.
+
+
 
 - Discord Server : https://discord.gg/ZbGM2T85
 
