@@ -2,7 +2,10 @@
 A tool to help you find unowned roblox groups :)
 
 
-It's really easy, all you need is a discord webhook :)\
+It's really easy, all you need is a discord webhook :)
+
+
+I personally use like 5 million threads, but ngl 50,000 - 100,000 threads is fine :D
 
 
 
