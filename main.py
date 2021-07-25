@@ -14,7 +14,7 @@ def groupfinder():
         if 'isLocked' not in re.text and 'owner' in re.text:
             if re.json()['publicEntryAllowed'] == True and re.json()['owner'] == None:
                 hook.send(f'Hit: https://www.roblox.com/groups/group.aspx?gid={id}')
-                print(f"[-] Hit: {id}")
+                print(f"[+] Hit: {id}")
             else:
                 print(f"[-] No Entry Allowed: {id}")
         else:
