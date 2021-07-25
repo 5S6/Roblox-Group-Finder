@@ -14,6 +14,10 @@ A tool to help you find unowned/ownerless roblox groups :)
 - On Line 13 Of Main.py Change That To The Range You Want To Scan.
 
 
+- If You Want To Run It On Replit, Just Fork This :)
+https://replit.com/@alekdevs20/AleksGroupFinder
+
+
 
 - Discord Server For Support : https://discord.gg/ZbGM2T85
 
