@@ -1,5 +1,5 @@
 # Roblox-Group-Finder
-A tool to help you find unowned/ownerless roblox groups :)
+A tool to help you find ownerless roblox groups :)
 
 
 - It's really easy, all you need is a discord webhook :)
