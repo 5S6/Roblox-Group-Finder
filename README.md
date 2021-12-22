@@ -8,10 +8,7 @@ A tool to help you find ownerless roblox groups :)
 - It will not send locked groups so don't worry LOLLL.
 
 
-- I personally use like 5 million threads, but ngl 500 - 100,000 threads is fine :D
-
-
-- On Line 13 Of Main.py Change That To The Range You Want To Scan.
+- On Line 13 Of Main.py Change That To The Range Of Groups You Want To Scan. *(Ex: 20243-345354)*
 
 
 - If You Want To Run It On Replit, Just Fork This :)
