@@ -1,4 +1,4 @@
-# Roblox-Group-Finder **Star It ;)**
+# Roblox-Group-Finder
 A tool to help you find ownerless roblox groups :)
 
 
