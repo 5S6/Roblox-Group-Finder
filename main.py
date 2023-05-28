@@ -37,7 +37,7 @@ ____ _ _  _ ___  ____ ____
 """)
 
 #your webhook
-hook = input("[-] Enter your webhook url: "))
+hook = input("[-] Enter your webhook url: ")
 #number of threads
 threads = int(input("[-] How many threads: "))
 
